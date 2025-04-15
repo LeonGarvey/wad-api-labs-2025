@@ -6,7 +6,8 @@
     "start": "babel-node index.js",
     "dev": "nodemon --exec npm start"
   },
-  "author": "LeonGarvey",
+
+  "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
@@ -18,7 +19,6 @@
   },
   "dependencies": {
     "dotenv": "^16.5.0",
-    "express": "^5.1.0",
-    "uuid": "^11.1.0"
+    "express": "^5.1.0"
   }
 }
